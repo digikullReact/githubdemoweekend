@@ -1,0 +1,1 @@
+git init   ---->it initializes an empty git repository in the folder/ it makes that folder a local git repository
