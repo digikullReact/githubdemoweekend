@@ -1,7 +1,19 @@
 git init   ---->it initializes an empty git repository in the folder/ it makes that folder a local git repository
 
 git add fileName  ---->  which tells git too track the particular file whose name is given
+// shorter version git add .
 
 git status ---About the status of git
 
 // the comamnds of git
+git commit -m "i crate d.js and updated commnads.txt"  // saving the changes to git
+git push -u origin master  //pushing the changes to remote repository to the master branch
+
+//  ---Cloning an existing repository
+git clone repository_url   // *conditions applied  -->you can only clone a public repsoitory  // you can clone a private repo if you have access to it
+
+// git pull part
+git pull origin master // gets the changes from the remote repository to your local repository
+
+git branch // run to check currently on which branch you are 
+ 
