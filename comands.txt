@@ -3,3 +3,5 @@ git init   ---->it initializes an empty git repository in the folder/ it makes t
 git add fileName  ---->  which tells git too track the particular file whose name is given
 
 git status ---About the status of git
+
+// the comamnds of git
