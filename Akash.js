@@ -3,6 +3,8 @@ var akash = $("$k");
 
 /// Some changes in the file ---->
 //Shubham Changes ------>
-var c="something new";
+var c = "something new";
 
 var digikull = $("#classes").val();
+
+const abc = "Hello Everyone";
