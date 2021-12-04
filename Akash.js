@@ -6,3 +6,6 @@ var akash = $("$k");
 var c="something new";
 
 var digikull = $("#classes").val();
+
+const hello="there";
+const hello there=="hello";
