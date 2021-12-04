@@ -29,3 +29,6 @@ git branch  /// run to check currently on which branch you are
 git branch branchname // --will create the branch from the existing branch the comamnd has been run on 
 
 git checkout branchname // --will move you to the particular branch
+
+
+///  ---MErge request of two branches
