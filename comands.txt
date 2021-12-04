@@ -18,3 +18,4 @@ git pull origin master // gets the changes from the remote repository to your lo
 
 git branch // run to check currently on which branch you are 
  
+//merge conflicts ---->
