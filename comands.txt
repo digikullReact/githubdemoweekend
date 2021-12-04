@@ -35,3 +35,5 @@ git checkout branchname // --will move you to the particular branch
 ///  ---MErge request of two branches
 
 git pull origin branchname -->it will bring the changes from the mentioned branch
+
+// git pull ===git fetch +git merge
