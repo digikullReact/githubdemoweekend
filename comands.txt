@@ -1,4 +1,5 @@
 git init   ---->it initializes an empty git repository in the folder/ it makes that folder a local git repository
+// A new thing added
 
 git add fileName  ---->  which tells git too track the particular file whose name is given
 
