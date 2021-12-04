@@ -9,6 +9,7 @@ git status ---About the status of git
 // the comamnds of git
 git commit -m "i crate d.js and updated commnads.txt"  // saving the changes to git
 git push -u origin master  //pushing the changes to remote repository to the master branch
+git push -u origin   //pushing the changes to remote repository of the branch you are currently in
 
 //  ---Cloning an existing repository
 git clone repository_url   // *conditions applied  -->you can only clone a public repsoitory  // you can clone a private repo if you have access to it
@@ -32,3 +33,5 @@ git checkout branchname // --will move you to the particular branch
 
 
 ///  ---MErge request of two branches
+
+git pull origin branchname -->it will bring the changes from the mentioned branch
